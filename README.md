@@ -1,11 +1,9 @@
 ### Hi there 👋
-### Go language simple program
-- Pi (3.14...) etimates using monte carlo: https://github.com/martinbandung/piestimate_mc
 
 Currently studying as undergraduate Physics student.
 - 🔭 I’m currently working on mobile monitoring system
 - 🌱 I’m currently learning C, Python, MATLAB, React Native
-- 📫 How to reach me: Line: martinbandung
+- 📫 How to reach me: martinbandung@yahoo.co.id
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
