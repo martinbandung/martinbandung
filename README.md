@@ -15,6 +15,12 @@ SMAK Trimulia (Science)|2016-2017
 - Munir, M. M., Adrian, M., Saputra, C., & Lestari, P. (2022). Utilizing Low-cost Mobile Monitoring to Estimate the PM2.5 Inhaled Dose in Urban Environment. Aerosol and Air Quality Research, 22(6), 220079. https://doi.org/10.4209/aaqr.220079
 - Munir, M. M., Adrian, M., Burhanuddin, M., & Iskandar, F. (2022, April). Fabrication and structure optimization of expanded polystyrene (EPS) waste fiber for high-performance air filtration. Powder Technology, 402, 117357. https://doi.org/10.1016/j.powtec.2022.117357
 
+### Languages
+Languages | Score
+--- | --- 
+Chinese (Basic proficiency)|HSK 4
+English (TOEFL iBT)|100/120
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
