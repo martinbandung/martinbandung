@@ -6,7 +6,7 @@ Currently studying as undergraduate Physics student.
 - 📫 How to reach me: martinbandung@yahoo.co.id [LinkedIn](https://www.linkedin.com/in/martin-adrian-06aa24131/)
 
 ### Education
-Institute | Year
+Institution | Year
 --- | --- 
 Bandung Institute of Technology (Physics Undergraduate)|2017-2021
 SMAK Trimulia (Science)|2016-2017
