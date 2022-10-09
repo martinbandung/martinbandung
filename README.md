@@ -3,7 +3,7 @@
 Currently studying as undergraduate Physics student.
 - 🔭 I’m currently working on mobile monitoring system
 - 🌱 I’m currently learning C, Python, MATLAB, React Native
-- 📫 How to reach me: martinbandung@yahoo.co.id
+- 📫 How to reach me: martinbandung@yahoo.co.id [LinkedIn](https://www.linkedin.com/in/martin-adrian-06aa24131/)
 
 ### Education
 Institute | Year
@@ -45,4 +45,5 @@ English (TOEFL iBT)|100/120
 ### Top Languages
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinbandung&amp;layout=compact" alt="Top Languages"></p>
 
-Reach me at: https://www.linkedin.com/in/martin-adrian-06aa24131/
+
+Keywords: Martin Adrian ITB, martinbandung, martin adrian bandung, martin adrian itb bandung
