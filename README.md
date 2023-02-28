@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-Currently studying as undergraduate Physics student.
+Previously studied as Physics student.
 - 🔭 I’m currently working on mobile monitoring system
 - 🌱 I’m currently learning C, Python, MATLAB, React Native
-- 📫 How to reach me: martinbandung@yahoo.co.id [LinkedIn](https://www.linkedin.com/in/martin-adrian-06aa24131/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/martin-adrian-06aa24131/)
 
 ### Education
 Institution | Year
 --- | --- 
 Bandung Institute of Technology (Physics Graduate, M. Sc.)|2021-2022
 Bandung Institute of Technology (Physics Undergraduate, B. Sc.)|2017-2021
-SMAK Trimulia (Science)|2016-2017
+SMAK Trimulia (High School, Science)|2016-2017
 
 ### Publication [(ORCiD)](https://orcid.org/0000-0003-2635-8687)
 - Adrian, M., Lestari, P., Iskandar, F., Munir, M.M. (2023). The Impact of Public Activity Restriction during COVID-19 to Air Quality in Urban Area of Bandung Measured Using Mobile Monitoring. Aerosol Air Qual. Res. 23, 220215. https://doi.org/10.4209/aaqr.220215
