@@ -36,16 +36,12 @@ English (TOEFL iBT)|100/120
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 -->
 
+### Top Languages
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinbandung&amp;layout=compact" alt="Top Languages"></p>
+
 ### My Skills
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-347AB4?style=flat-square&logo=python&logoColor=white" />
 </p>
-
-### Gihub Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=martinbandung&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
-
-### Top Languages
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinbandung&amp;layout=compact" alt="Top Languages"></p>
-
 
 Keywords: Martin Adrian ITB, martinbandung, martin adrian bandung, martin adrian itb bandung
