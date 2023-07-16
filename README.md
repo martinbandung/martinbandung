@@ -8,15 +8,16 @@ Master of Finance Student, Interested in Finance Data Analyst 金融数据分析
 ### Education
 Institution | Year
 --- | --- 
+Peking University HSBC Business School (Finance, M.A.)|2022-2024
 Bandung Institute of Technology (Physics Graduate, M. Sc.)|2021-2022
 Bandung Institute of Technology (Physics Undergraduate, B. Sc.)|2017-2021
 SMAK Trimulia (High School, Science)|2016-2017
 
 ### Publication [(ORCiD)](https://orcid.org/0000-0003-2635-8687)
-- Adrian, M., Aditya, I. D., & Munir, M. M. (2023). New approach in evaluating mask filtration efficiency using low-cost PM2.5 sensor and mobile mannequin method. Atmospheric Pollution Research, 14(8), 101840. https://doi.org/10.1016/j.apr.2023.101840
-- Adrian, M., Lestari, P., Iskandar, F., Munir, M.M. (2023). The Impact of Public Activity Restriction during COVID-19 to Air Quality in Urban Area of Bandung Measured Using Mobile Monitoring. Aerosol Air Qual. Res. 23, 220215. https://doi.org/10.4209/aaqr.220215
-- Munir, M. M., Adrian, M., Saputra, C., & Lestari, P. (2022). Utilizing Low-cost Mobile Monitoring to Estimate the PM2.5 Inhaled Dose in Urban Environment. Aerosol and Air Quality Research, 22(6), 220079. https://doi.org/10.4209/aaqr.220079
-- Munir, M. M., Adrian, M., Burhanuddin, M., & Iskandar, F. (2022, April). Fabrication and structure optimization of expanded polystyrene (EPS) waste fiber for high-performance air filtration. Powder Technology, 402, 117357. https://doi.org/10.1016/j.powtec.2022.117357
+- **Adrian, M.**, Aditya, I. D., & Munir, M. M. (2023). New approach in evaluating mask filtration efficiency using low-cost PM2.5 sensor and mobile mannequin method. Atmospheric Pollution Research, 14(8), 101840. https://doi.org/10.1016/j.apr.2023.101840
+- **Adrian, M.**, Lestari, P., Iskandar, F., Munir, M.M. (2023). The Impact of Public Activity Restriction during COVID-19 to Air Quality in Urban Area of Bandung Measured Using Mobile Monitoring. Aerosol Air Qual. Res. 23, 220215. https://doi.org/10.4209/aaqr.220215
+- Munir, M. M., **Adrian, M.**, Saputra, C., & Lestari, P. (2022). Utilizing Low-cost Mobile Monitoring to Estimate the PM2.5 Inhaled Dose in Urban Environment. Aerosol and Air Quality Research, 22(6), 220079. https://doi.org/10.4209/aaqr.220079
+- Munir, M. M., **Adrian, M.**, Burhanuddin, M., & Iskandar, F. (2022, April). Fabrication and structure optimization of expanded polystyrene (EPS) waste fiber for high-performance air filtration. Powder Technology, 402, 117357. https://doi.org/10.1016/j.powtec.2022.117357
 
 ### Languages
 Languages | Score
