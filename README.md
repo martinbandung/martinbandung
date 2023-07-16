@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Previously studied as Physics student.
+Master of Finance Student, Interested in Finance Data Analyst 金融数据分析, Credit risk modelling 信用风险模型, Machine Learning 学习机器. Previously studied as Physics student.
 - 🔭 I’m currently working on mobile monitoring system
 - 🌱 I’m currently learning C, Python, MATLAB, React Native
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/martin-adrian-06aa24131/)
